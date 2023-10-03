@@ -33,7 +33,21 @@ To get started with this project, make sure you have Python 3.9 or later install
 python -m venv myenv
 source myenv/bin/activate
 ```
- You can install Django and the required packages using pip
+- Navigate to the project folder and install the project requirements using pip
+```
+pip install -r requirements.txt
+```
+- Apply database migrations
+```
+python manage.py migrate
+```
+- Run the development server:
+```
+python manage.py runserver
+```
+- Access the Django admin panel at http://localhost:8000/admin/ and start building your application!
 
-```bash
-pip install Django==4.2.5 asgiref==3.7.2 pycodestyle==2.11.0 sqlparse==0.4.4 typing_extensions==4.8.0 tzdata==2023.3
+## Authors
+
+- [Vladimir Davidov](https://github.com/v-dav)
+- Learning Path based on Youtube Django learning Series by [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&si=1m9aIv0nPu2B8jgE) 
