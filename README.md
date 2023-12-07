@@ -7,6 +7,9 @@
 ![Typing Extensions Version](https://img.shields.io/badge/Typing_Extensions-4.8.0-red.svg)
 ![TZData Version](https://img.shields.io/badge/TZData-2023.3-brightgreen.svg)
 
+![image](https://github.com/v-dav/learn_django/assets/115344057/4e1807bc-edbb-4d60-a604-39bd123c10c9)
+
+
 ## Project Overview
 
 Welcome to my Django Learning repository! This repository is designed to help me learn the Django framework through hands-on experience. Django is a high-level Python web framework that simplifies web development by providing a clean and pragmatic design. By working on this project, I expect gain valuable skills in web application development, database management, and more.
